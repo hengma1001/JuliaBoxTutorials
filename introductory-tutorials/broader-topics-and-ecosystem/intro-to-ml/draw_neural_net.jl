@@ -1,4 +1,5 @@
 using Plots; gr()
+using LinearAlgebra
 
 function draw_neuron(x, y, r; c=:blue)
 
